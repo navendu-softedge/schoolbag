@@ -104,7 +104,7 @@ unset($_SESSION["invalidLogin"]);
   <h2 style="color:#999999; text-align:left">Benefits</h2>
         <ul>
           <li>Reducing costs in your school. </li>
-          <li>Improve communication and documentation processes test </li>
+          <li>Improve communication and documentation processes test schoolbag </li>
           </ul>
 </div>
 <div id="homefooter" style="display: block; clear:both; background-color:#666666; width:100%; color:#FFFFFF; height:100px; padding-top:30px; margin-top:30px;">
